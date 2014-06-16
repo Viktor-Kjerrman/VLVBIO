@@ -1,0 +1,164 @@
+/******************************************************************
+Site Name: Peviva
+Author: Delta Web Solutions
+
+Stylesheet: Global Stylesheet
+
+Styles and classes used throughout the entire BREW framework
+
+******************************************************************/
+
+
+/* ===============================================================
+Basic Swiper Styles 
+================================================================*/
+.swiper-container {
+	margin:0 auto;
+	position:relative;
+	overflow:hidden;
+	-webkit-backface-visibility:hidden;
+	-moz-backface-visibility:hidden;
+	-ms-backface-visibility:hidden;
+	-o-backface-visibility:hidden;
+	backface-visibility:hidden;
+	/* Fix of Webkit flickering */
+	z-index:1;
+}
+.swiper-wrapper {
+	position:relative;
+	width:100%;
+	-webkit-transition-property:-webkit-transform, left, top;
+	-webkit-transition-duration:0s;
+	-webkit-transform:translate3d(0px,0,0);
+	-webkit-transition-timing-function:ease;
+	
+	-moz-transition-property:-moz-transform, left, top;
+	-moz-transition-duration:0s;
+	-moz-transform:translate3d(0px,0,0);
+	-moz-transition-timing-function:ease;
+	
+	-o-transition-property:-o-transform, left, top;
+	-o-transition-duration:0s;
+	-o-transform:translate3d(0px,0,0);
+	-o-transition-timing-function:ease;
+	-o-transform:translate(0px,0px);
+	
+	-ms-transition-property:-ms-transform, left, top;
+	-ms-transition-duration:0s;
+	-ms-transform:translate3d(0px,0,0);
+	-ms-transition-timing-function:ease;
+	
+	transition-property:transform, left, top;
+	transition-duration:0s;
+	transform:translate3d(0px,0,0);
+	transition-timing-function:ease;
+}
+.swiper-free-mode > .swiper-wrapper {
+	-webkit-transition-timing-function: ease-out;
+	-moz-transition-timing-function: ease-out;
+	-ms-transition-timing-function: ease-out;
+	-o-transition-timing-function: ease-out;
+	transition-timing-function: ease-out;
+	margin: 0 auto;
+}
+.swiper-slide {
+	float: left;
+}
+
+/* IE10 Windows Phone 8 Fixes */
+.swiper-wp8-horizontal {
+	-ms-touch-action: pan-y;
+}
+.swiper-wp8-vertical {
+	-ms-touch-action: pan-x;
+}
+
+.swiper-content {
+	position: relative;
+    width: 100%;
+}
+.swiper-content .inner {
+	padding: 20px;
+}
+.swiper-content h1 {
+	margin: 15px 0 15px;
+	font-size: 36px;
+}
+.swiper-content .movie-pic {
+	float: left;
+	border-radius: 5px;
+	box-shadow: 0px 1px 2px #000;
+	width: 100%;
+	height: auto;
+}
+.swiper-content .movie-text {
+	margin-left: 120px;
+}
+.swiper-nav {
+	height: 20px;
+	position: relative;
+	left: 0;
+	bottom: 0;
+}
+
+.swiper-nav .swiper-slide {
+	width: 20px;
+	height: 20px;
+	text-align: center;
+	position: relative;
+    background-color: #f1f1f1;
+}
+.swiper-nav .swiper-slide, .swiper-nav .angle {
+	-webkit-transition: 300ms;
+	-moz-transition: 300ms;
+	-ms-transition: 300ms;
+	-o-transition: 300ms;
+	transition: 300ms;
+}
+.swiper-nav .angle {
+	width: 0;
+	height: 0;
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-top: 6px solid #fff;
+	position: absolute;
+	left: 50%;
+	margin-left: -3px;
+	top: -1px;
+	opacity: 0;
+}
+.swiper-nav .active-nav, .active-nav-2, .active-nav-3 {
+	background: #000;
+}
+.swiper-nav .active-nav, .active-nav-2, .active-nav-3 .angle {
+	opacity: 1;
+}
+.swiper-nav .swiper-wrapper {
+	margin: 0 auto;
+}
+.swiper-nav img {
+	margin-top: 10px;
+	width: 60px;
+	height: 60px;
+	border-radius: 5px;
+	box-shadow: 0px 1px 2px #000;
+}
+.swiper-nav .title {
+	margin: 0 5px;
+	font-size: 10px;
+	font-weight: bold;
+	position: relative;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	white-space: nowrap;
+}
+
+
+.swiper-slide, .swiper-slide-active, .swiper-slide-visible{
+height: auto;
+}
+
+.swiper-slide active-nav-2{
+background-color: #000;
+}
+

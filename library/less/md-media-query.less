@@ -1,0 +1,123 @@
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) { 
+
+ .page-template-page-home-php {
+    .category {
+        padding-left: 20px;
+    }
+    .paddtext {
+        padding: 0px 0px;
+    }
+    .col-md-4 {
+    }
+    #swiper-cont {
+        height: 800px;
+        .swiper-slide, .swiper-slide-active, .swiper-slide-visible {
+            height: 800px;
+            .img-crop {
+                overflow: hidden;
+                max-height: 550px;
+                img {
+                    width: 100%;
+                    height: auto;
+                }
+            }
+        }
+    }
+    #swiper-cont-2 {
+    	height: auto;
+        .col-md-3, .swiper-slide, .swiper-slide-active, .swiper-slide-visible {
+            height: auto;
+            .img-crop {
+                overflow: hidden;
+                max-height: 550px;
+                img {
+                    width: 100%;
+                    height: auto;
+                }
+            }
+            &:last-child {
+                margin-top: 20px;
+            }
+        }
+    }
+}
+
+.countires-container {
+    width: 100%;
+    height: 91%;
+    transition: all ease-in-out 0.5s;
+
+    &.isset {
+      height: 0px;
+      overflow: hidden;
+    }
+
+    .row {
+      height: 100%;
+
+      .col-md-4 {
+        height: 100%;
+        background: #f1f1f1;
+
+        .countries-content {
+          text-align: center;
+          color: #fff;
+          text-transform: uppercase;
+       h3 {
+            font-size: 50px;
+            margin-top: 50px;
+          }
+
+          p {
+            color: fade(#484949, 50%);
+            margin-top: 20px;
+          }
+        }
+        i {
+
+          height: auto;
+          display: block;
+          img {
+          width: 90%;
+          margin: 15% 5% 0;
+          display: block;
+          height: auto;
+          }
+        }
+        &.europe {
+          background-color: #3b9fd0;
+           &:hover {
+             background-color: fade(#3b9fd0,80%);
+          }
+
+          h3 {
+            margin-top: 80px;
+          }
+        }
+        &.america {
+          background-color: #9eccaf;
+          &:hover {
+             background-color: fade(#9eccaf,80%);
+          }   
+        }
+        &.germany {
+          background-color: #c0e1cc;
+           &:hover {
+             background-color: fade(#c0e1cc,80%);
+          }  
+        } 
+
+        &:first-child {
+          img {
+
+            width: 60%;
+            margin: 15% 20% 0;
+
+          }
+        }
+      }
+    }
+  }
+    
+}

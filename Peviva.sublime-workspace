@@ -1,0 +1,782 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"get_post_Th",
+				"get_the_post_thumbnail"
+			],
+			[
+				"wpquery",
+				"WP_Query"
+			],
+			[
+				"query",
+				"query_posts"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"URLR",
+				"URLRequest"
+			],
+			[
+				"sto",
+				"stop"
+			],
+			[
+				"st",
+				"stop"
+			],
+			[
+				"re",
+				"restartUsp"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"ha",
+				"haltTime"
+			],
+			[
+				"halt",
+				"haltTimer"
+			],
+			[
+				"star",
+				"start"
+			],
+			[
+				"stop",
+				"stopTimer"
+			],
+			[
+				"start",
+				"startTimer"
+			],
+			[
+				"Pla",
+				"playUspNow"
+			],
+			[
+				"format",
+				"formatPrice"
+			],
+			[
+				"lad",
+				"landingpage"
+			],
+			[
+				"lyko",
+				"lyko_usp_clip"
+			],
+			[
+				"del",
+				"delay"
+			],
+			[
+				"text",
+				"textField"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"prod",
+				"products"
+			],
+			[
+				"pro",
+				"products"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "library/less/peviva.less",
+			"settings":
+			{
+				"buffer_size": 2522,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page-home.php",
+			"settings":
+			{
+				"buffer_size": 2202,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 2881,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 1699,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 51.0,
+		"selected_items":
+		[
+			[
+				"projcet save",
+				"Project: Save As"
+			],
+			[
+				"beut",
+				"HTMLBeautify"
+			],
+			[
+				"beuti",
+				"HTMLBeautify"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"project save",
+				"Project: Save As"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 583.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/viktor.kjerrman/www/vlvlbio/wp-content/themes/Peviva/functions.php",
+		"/Users/viktor.kjerrman/www/vlvlbio/wp-content/themes/Peviva/library/less/custom-variables.less",
+		"/Users/viktor.kjerrman/www/vlvlbio/wp-content/themes/Peviva/library/less/style.less",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/jern2/se/adaction/Url.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/jern2/Main.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/jern2/se/adaction/InfoBox.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/jern2/se/adaction/xscale/ScaleObject.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/jern2/se/adaction/xscale/Toggle.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/jern2/com/greensock/layout/AlignMode.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/jern2/ClickArea.as",
+		"/Users/viktor.kjerrman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/viktor.kjerrman/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/jern2/se/deltaprojects/ProductParser.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/jern2/se/deltaprojects/utils/XMLLoader.as",
+		"/Users/viktor.kjerrman/www/AdWiz/public/package.json",
+		"/Users/viktor.kjerrman/Documents/untitled folder/test.html",
+		"/Users/viktor.kjerrman/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/nytest/LYKO_2/ClickArea.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/nytest/LYKO_2/Main.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/nytest/LYKO_2/TextGroup.as",
+		"/Users/viktor.kjerrman/www/delws/wp-content/themes/angular/library/views/pages/delws.html",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/nytest/LYKO 2/Main.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/LYKO/Main.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/BASE - FLASH - DYNAMIC/Main.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/Apollo XML annonser/Main.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/nytest/BASE - FLASH - DYNAMIC/Main.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/Garantibil/Main.as",
+		"/Users/viktor.kjerrman/Dropbox/Shared Delta Web Solutions/LYKO/Main.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/nytest/LYKO/Main.as",
+		"/Users/viktor.kjerrman/Dropbox/Shared Delta Web Solutions/Apollo XML annonser/Main.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/LYKO/ProductImage.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/LYKO/TextGroup.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/GaranNy/garantiBil_Salja_bilen/ClickArea.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/GaranNy/garantiBil_Salja_bilen/garantibil_ads.as",
+		"/Users/viktor.kjerrman/Downloads/Custom-Metaboxes/readme.md",
+		"/Users/viktor.kjerrman/Downloads/as3-guide/Tutorial.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/nyhavn_xml_banner/Main.as",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/Garantibil/TextGroup.as",
+		"/Users/viktor.kjerrman/Downloads/north-master/README.md",
+		"/Users/viktor.kjerrman/Documents/DELTA/ADS/apollo_xml_list/AdAction.as",
+		"/Users/viktor.kjerrman/Downloads/hannes.sql",
+		"/Users/viktor.kjerrman/Dropbox/Shared Delta Web Solutions/Flash XML products/Main.as",
+		"/Users/viktor.kjerrman/.ssh/config"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"",
+			"/Users/viktor.kjerrman/Documents/DELTA/ADS/jern2/se",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"container",
+			"container-md",
+			".container",
+			"1170",
+			"1170px",
+			"width: 1170px",
+			"landingpage",
+			"click",
+			"clickTAG",
+			"Opening custom landing page",
+			"AdAction",
+			"AdAc",
+			"doClick",
+			"AdAction",
+			"doClick",
+			"AdAction",
+			"landingpage",
+			"product_link",
+			"product_image_link",
+			"URL",
+			"vårt instagramflöde",
+			"polaroid",
+			"height",
+			"product_link",
+			"loader",
+			"halt",
+			"slut",
+			"startTimer",
+			"körstart",
+			"eventlist",
+			"lyko_usp_clip",
+			"timerTrigger",
+			"timer",
+			"myInterval",
+			"halted",
+			"startTimer",
+			"mouse",
+			"myInterval",
+			"startTimer",
+			"haltTime",
+			"haltTimer",
+			"haltTime",
+			"mc_playing",
+			"yepp",
+			"header1",
+			"landingpage",
+			"productUrl",
+			"restartUsp",
+			"timer",
+			"isAnimating",
+			"previous_btn",
+			"lyko_usp_clip",
+			"price",
+			"landingpage",
+			"gotoPrevious",
+			"adaction",
+			"alpha",
+			"sku",
+			"landingpage",
+			"timer",
+			"adaction",
+			"landingpage",
+			"lyko",
+			"landingpage",
+			"currentLandingPage",
+			"landingPageUrl",
+			"landingpage",
+			"currentLandingPage",
+			"newLandingPageUrl",
+			"newLandingPageUrl'",
+			"landingpage",
+			"currentLandingPage",
+			"click",
+			"startTimer",
+			"stopTimer",
+			"gotoNext",
+			"productTimer",
+			"timerTrigger",
+			"subHeader",
+			"subheader",
+			"subHeader",
+			"productIndex",
+			"xml",
+			"ProductLoaderEvent",
+			"fv_productIDs",
+			"products",
+			"push",
+			"trace",
+			"product",
+			"numberOfProductsToLoad",
+			"fv_productCount",
+			"ProductParser",
+			"productSeparator",
+			"products",
+			"previousProductIndex",
+			"productIndex",
+			"productsUrl",
+			"fv_productsURL",
+			"productIDs",
+			"trace",
+			"Error opening URL",
+			"default_0",
+			"myLoader",
+			"url:",
+			"productIDs",
+			".xml",
+			"nextProductIndex",
+			"gotoNext",
+			"productsUrl",
+			"fv_productsURL",
+			"productsurl",
+			"nano"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "library/less/peviva.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1092,
+								1092
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1936.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "page-home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 148.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1201,
+								1201
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 330.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1065,
+								1065
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 92.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Peviva.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"url",
+				"se/adaction/Url.as"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
